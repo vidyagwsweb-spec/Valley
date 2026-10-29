@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-v13-morphing-toolbar.zip -d .
+          unzip -o Valley-v15-reader-refresh-direct-navigation.zip -d .
           echo "--- project files ---"
           ls -la
 
