@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-SiteSpark-Polished-v6.zip -d .
+          unzip -o Valley-SiteSpark-v7-ui-fixes.zip -d .
           echo "--- project files ---"
           ls -la
 
