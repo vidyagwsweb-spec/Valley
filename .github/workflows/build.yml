@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-v9-menu-spacing-fade.zip -d .
+          unzip -o Valley-v10.1-rounded-menus-original-row-spacing.zip -d .
           echo "--- project files ---"
           ls -la
 
