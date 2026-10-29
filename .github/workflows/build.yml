@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-v15-reader-refresh-direct-navigation.zip -d .
+          unzip -o Valley-darkbar-removed.zip -d .
           echo "--- project files ---"
           ls -la
 
