@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o valley-browser.zip -d .
+          unzip -o valley-browser-updated.zip -d .
           echo "--- project files ---"
           ls -la
 
