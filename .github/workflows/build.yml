@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-Anchored-Menus-v4-buildfix.zip -d .
+          unzip -o Valley-SiteSpark-Polished-v6.zip -d .
           echo "--- project files ---"
           ls -la
 
