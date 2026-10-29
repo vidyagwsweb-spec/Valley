@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-Spring-Animations-Compile-Fix.zip -d .
+          unzip -o Valley-Compile-Fix-v2.zip -d .
           echo "--- project files ---"
           ls -la
 
