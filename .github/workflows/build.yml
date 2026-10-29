@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-SiteSpark-Pill-Preview.zip -d .
+          unzip -o Valley-Preview-Updated.zip -d .
           echo "--- project files ---"
           ls -la
 
