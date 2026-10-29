@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-Compile-Fix-v2.zip -d .
+          unzip -o Valley-Anchored-Menus-v4.zip -d .
           echo "--- project files ---"
           ls -la
 
