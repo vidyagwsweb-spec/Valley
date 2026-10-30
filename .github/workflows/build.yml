@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-v15-tools-fade-fix.zip -d .
+          unzip -o Valley-reader-refresh-repair.zip -d .
           echo "--- project files ---"
           ls -la
 
