@@ -18,7 +18,7 @@ jobs:
       - name: Unzip the project
         run: |
           ls -la
-          unzip -o Valley-reader-refresh-repair.zip -d .
+          unzip -o Valley-history-fix-kotlin-escape-repaired.zip -d .
           echo "--- project files ---"
           ls -la
 
